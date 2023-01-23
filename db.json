@@ -1,0 +1,34 @@
+{
+   "movies": [
+    {
+        "id": 1,
+        "title": "The Matrix",
+        "Raiting": 7.5,
+        "Category": "Action"
+    },
+    {
+        "id": 2,
+        "title": "Focus",
+        "Raiting": 6.9,
+        "Category": "Comedy"
+    },
+    {
+        "id": 3,
+        "title": "The Lazarus Effect",
+        "Raiting": 6.4,
+        "Category": "Thriller"
+    },
+    {
+        "id": 4,
+        "title": "Everly",
+        "Raiting": 5.0,
+        "Category": "Action"
+    },
+    {
+        "id": 5,
+        "title": "Maps to the Stars",
+        "Raiting": 7.5,
+        "Category": "Drama"
+    }
+   ]   
+}
